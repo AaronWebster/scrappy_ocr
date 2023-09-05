@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
+
 import json
 from pathlib import Path
 import re
+import os
 import openai
 from dotenv import load_dotenv
 
